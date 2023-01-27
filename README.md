@@ -25,3 +25,12 @@ This repository contains my homework, quizzes, and virtually every effort that I
 
 1.  exam: (the exam hyperlink should take the reader to the exams folder)
     This directory contains all my exam submissions, each of which is a folder properly named with exam name or number, containing the exam submission.
+
+
+For questions and troubleshooting, please contact:
+
+Amir Shahmoradi  
+a.shahmoradi@gmail.com
+
+> I have not failed. I’ve just found 10,000 ways that won’t work.
+> Thomas A. Edison
