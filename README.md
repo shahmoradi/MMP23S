@@ -23,7 +23,7 @@ This repository contains my homework, quizzes, and virtually every effort that I
 2.  [quiz](./quiz): (the quiz hyperlink should take the reader to the quizzes folder)
     This directory contains all my quiz submissions, each of which is a folder properly named with quiz number, containing the quiz submission.
 
-1.  exam: (the exam hyperlink should take the reader to the exams folder)
+1.  [exam](./exam): (the exam hyperlink should take the reader to the exams folder)
     This directory contains all my exam submissions, each of which is a folder properly named with exam name or number, containing the exam submission.
 
 
